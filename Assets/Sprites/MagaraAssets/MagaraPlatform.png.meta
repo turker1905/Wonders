@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: 02f718a32f029fc469e2b097825aba3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3156224672824810712
+    second: MagaraPlatform_0
+  - first:
+      213: -3893058702124591752
+    second: MagaraPlatform_1
+  - first:
+      213: 5418377618043380118
+    second: MagaraPlatform_2
+  - first:
+      213: 3648325483805816274
+    second: MagaraPlatform_3
+  - first:
+      213: 7374193549370671944
+    second: MagaraPlatform_4
+  - first:
+      213: 2850497057512775370
+    second: MagaraPlatform_5
+  - first:
+      213: 4459066328468068
+    second: MagaraPlatform_6
+  - first:
+      213: 3819279109850099664
+    second: MagaraPlatform_7
+  - first:
+      213: -6344969426977243575
+    second: MagaraPlatform_8
+  - first:
+      213: 2876487800441935187
+    second: MagaraPlatform_9
+  - first:
+      213: -6485933016666532166
+    second: MagaraPlatform_10
+  - first:
+      213: -570442037063867601
+    second: MagaraPlatform_11
+  - first:
+      213: -6134270926286473140
+    second: MagaraPlatform_12
+  - first:
+      213: 4541645008306312350
+    second: MagaraPlatform_13
+  - first:
+      213: 826246156321297594
+    second: MagaraPlatform_14
+  - first:
+      213: 6262314152412840448
+    second: MagaraPlatform_15
+  - first:
+      213: 1998819558390526117
+    second: MagaraPlatform_16
+  - first:
+      213: 4154969054579245251
+    second: MagaraPlatform_17
+  - first:
+      213: 3548696942962970489
+    second: MagaraPlatform_18
+  - first:
+      213: 1955844932871701782
+    second: MagaraPlatform_19
+  - first:
+      213: -5588083460092819050
+    second: MagaraPlatform_20
+  - first:
+      213: 64287982319139096
+    second: MagaraPlatform_21
+  - first:
+      213: 3948753652637327957
+    second: MagaraPlatform_22
+  - first:
+      213: -8059442280121919733
+    second: MagaraPlatform_23
+  - first:
+      213: -4952990003803242587
+    second: MagaraPlatform_24
+  - first:
+      213: -2056465376562133529
+    second: MagaraPlatform_25
+  - first:
+      213: 8147080080182887546
+    second: MagaraPlatform_26
+  - first:
+      213: -5312378541537301832
+    second: MagaraPlatform_27
+  - first:
+      213: -6758014666193314399
+    second: MagaraPlatform_28
+  - first:
+      213: -8599640449007415313
+    second: MagaraPlatform_29
+  - first:
+      213: 9153440120089781736
+    second: MagaraPlatform_30
+  - first:
+      213: -4278744307526148965
+    second: MagaraPlatform_31
+  - first:
+      213: 7299323879897552796
+    second: MagaraPlatform_32
+  - first:
+      213: 1421553078776692465
+    second: MagaraPlatform_33
+  - first:
+      213: -4002762472324646797
+    second: MagaraPlatform_34
+  - first:
+      213: -511311408114214797
+    second: MagaraPlatform_35
+  - first:
+      213: -4408391998323852137
+    second: MagaraPlatform_36
+  - first:
+      213: 4679870680782895321
+    second: MagaraPlatform_37
+  - first:
+      213: -7032704152668947984
+    second: MagaraPlatform_38
+  - first:
+      213: 3914618855696533081
+    second: MagaraPlatform_39
+  - first:
+      213: -3679038666128033294
+    second: MagaraPlatform_40
+  - first:
+      213: 8334690587096748441
+    second: MagaraPlatform_41
+  - first:
+      213: -4990026610530519266
+    second: MagaraPlatform_42
+  - first:
+      213: 5342515067859353638
+    second: MagaraPlatform_43
+  - first:
+      213: 4054387117625922950
+    second: MagaraPlatform_44
+  - first:
+      213: 5810743626614544918
+    second: MagaraPlatform_45
+  - first:
+      213: 6038835454771544921
+    second: MagaraPlatform_46
+  - first:
+      213: 16789517500282958
+    second: MagaraPlatform_47
+  - first:
+      213: -4769793897265493725
+    second: MagaraPlatform_48
+  - first:
+      213: -6828268093271166581
+    second: MagaraPlatform_49
+  - first:
+      213: 4082102870058788386
+    second: MagaraPlatform_50
+  - first:
+      213: 3157863552071251559
+    second: MagaraPlatform_51
+  - first:
+      213: 7861289497441900742
+    second: MagaraPlatform_52
+  - first:
+      213: 7348557745465619124
+    second: MagaraPlatform_53
+  - first:
+      213: 8908694223044152477
+    second: MagaraPlatform_54
+  - first:
+      213: 1631743145579426652
+    second: MagaraPlatform_55
+  - first:
+      213: 4188595264485411797
+    second: MagaraPlatform_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagaraPlatform_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 730
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82324f8e166d234d0800000000000000
+      internalID: -3156224672824810712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 730
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875de1a9cb319f9c0800000000000000
+      internalID: -3893058702124591752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 730
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691276e5cb1f13b40800000000000000
+      internalID: 5418377618043380118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 730
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53047a2b471a230800000000000000
+      internalID: 3648325483805816274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 730
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843473786f5665660800000000000000
+      internalID: 7374193549370671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_5
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 730
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5852a8fffe8720800000000000000
+      internalID: 2850497057512775370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 776
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac9884f77df0000800000000000000
+      internalID: 4459066328468068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_7
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 776
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6fa07d1ec00530800000000000000
+      internalID: 3819279109850099664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_8
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 776
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ebe4a5ce322f7a0800000000000000
+      internalID: -6344969426977243575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_9
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 730
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355161a0a665be720800000000000000
+      internalID: 2876487800441935187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 590
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61d9809465df5a0800000000000000
+      internalID: -6485933016666532166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23abd75df16518f0800000000000000
+      internalID: -570442037063867601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4830b2e711bedaa0800000000000000
+      internalID: -6134270926286473140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941608821a270f30800000000000000
+      internalID: 4541645008306312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab41094608a677b00800000000000000
+      internalID: 826246156321297594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 590
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002087eda8538e650800000000000000
+      internalID: 6262314152412840448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_16
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a078f35ccb3dbb10800000000000000
+      internalID: 1998819558390526117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cfe6575a69a930800000000000000
+      internalID: 4154969054579245251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 590
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f82dc51118f3130800000000000000
+      internalID: 3548696942962970489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_19
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 451
+        width: 93
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c09b9a9e842b10800000000000000
+      internalID: 1955844932871701782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 451
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998ee133b32372b0800000000000000
+      internalID: -5588083460092819050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819757d449564e000800000000000000
+      internalID: 64287982319139096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55269f2968accc630800000000000000
+      internalID: 3948753652637327957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07919d62fb172090800000000000000
+      internalID: -8059442280121919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3f3765d1734bb0800000000000000
+      internalID: -4952990003803242587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_25
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 451
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5cf19b2a7f573e0800000000000000
+      internalID: -2056465376562133529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7446f7fa2e301170800000000000000
+      internalID: 8147080080182887546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_27
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae247dcd3a646b0800000000000000
+      internalID: -5312378541537301832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_28
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 451
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addaa27775b632a0800000000000000
+      internalID: -6758014666193314399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 312
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef05d01390f7a880800000000000000
+      internalID: -8599640449007415313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a2ceca4d870f70800000000000000
+      internalID: 9153440120089781736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cdd29d8b8de94c0800000000000000
+      internalID: -4278744307526148965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d1d135686c4560800000000000000
+      internalID: 7299323879897552796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef8d15efe5ab310800000000000000
+      internalID: 1421553078776692465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 312
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37833dc2db45378c0800000000000000
+      internalID: -4002762472324646797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785fbdbbf477e8f0800000000000000
+      internalID: -511311408114214797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_36
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 312
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7b3d85de32d2c0800000000000000
+      internalID: -4408391998323852137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_37
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 334
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d874d2d69d32f040800000000000000
+      internalID: 4679870680782895321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_38
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 34
+        width: 93
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b0c185d0d66e90800000000000000
+      internalID: -7032704152668947984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 173
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95686d4db15835630800000000000000
+      internalID: 3914618855696533081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f28653dd61fcc0800000000000000
+      internalID: -3679038666128033294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99191bc0ee4caa370800000000000000
+      internalID: 8334690587096748441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f49b6c3ddfbab0800000000000000
+      internalID: -4990026610530519266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620cdeaf52d642a40800000000000000
+      internalID: 5342515067859353638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_44
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 173
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68553083a93144830800000000000000
+      internalID: 4054387117625922950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_45
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9931ba88e3a050800000000000000
+      internalID: 5810743626614544918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_46
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 173
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95341bad9d04ec350800000000000000
+      internalID: 6038835454771544921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_47
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 219
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48fd8a2af5ab3000800000000000000
+      internalID: 16789517500282958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 34
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290aadc8b94ecdb0800000000000000
+      internalID: -4769793897265493725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81307dc85e1d31a0800000000000000
+      internalID: -6828268093271166581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e472beea86a830800000000000000
+      internalID: 4082102870058788386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663c566b2cf2db20800000000000000
+      internalID: 3157863552071251559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_52
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c89883a529e81d60800000000000000
+      internalID: 7861289497441900742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_53
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 34
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27cedc5525bf560800000000000000
+      internalID: 7348557745465619124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_54
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c0f11123a02ab70800000000000000
+      internalID: 8908694223044152477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_55
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 34
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b0fcdebd15a610800000000000000
+      internalID: 1631743145579426652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagaraPlatform_56
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 83
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db498f6331e02a30800000000000000
+      internalID: 4188595264485411797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

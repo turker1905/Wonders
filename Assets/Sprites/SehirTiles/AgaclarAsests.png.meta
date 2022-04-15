@@ -1,0 +1,2063 @@
+fileFormatVersion: 2
+guid: e2fbfcaa587ab9943b0bfc23fef83eb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1376641357437145052
+    second: AgaclarAsests_0
+  - first:
+      213: 182543521133133960
+    second: AgaclarAsests_1
+  - first:
+      213: 3004306250714824186
+    second: AgaclarAsests_2
+  - first:
+      213: 1664757715012521351
+    second: AgaclarAsests_3
+  - first:
+      213: 3476363600249035337
+    second: AgaclarAsests_4
+  - first:
+      213: -1773671217816773336
+    second: AgaclarAsests_5
+  - first:
+      213: -7417885426079499881
+    second: AgaclarAsests_6
+  - first:
+      213: 6738623598470279074
+    second: AgaclarAsests_7
+  - first:
+      213: 6684898174638760706
+    second: AgaclarAsests_8
+  - first:
+      213: -7551009594637218200
+    second: AgaclarAsests_9
+  - first:
+      213: -6261906714276434245
+    second: AgaclarAsests_10
+  - first:
+      213: -3898819063572269734
+    second: AgaclarAsests_11
+  - first:
+      213: 1542895778143482426
+    second: AgaclarAsests_12
+  - first:
+      213: 4510203107267078534
+    second: AgaclarAsests_13
+  - first:
+      213: 2444961226660598707
+    second: AgaclarAsests_14
+  - first:
+      213: 8004710210557933737
+    second: AgaclarAsests_15
+  - first:
+      213: 4185992700236774378
+    second: AgaclarAsests_16
+  - first:
+      213: -4767099901316556133
+    second: AgaclarAsests_17
+  - first:
+      213: -3492773182751384895
+    second: AgaclarAsests_18
+  - first:
+      213: 4962175910068960872
+    second: AgaclarAsests_19
+  - first:
+      213: 652920706533628795
+    second: AgaclarAsests_20
+  - first:
+      213: 8672524198734146759
+    second: AgaclarAsests_21
+  - first:
+      213: -7237791605066039970
+    second: AgaclarAsests_22
+  - first:
+      213: -3398597138669371606
+    second: AgaclarAsests_23
+  - first:
+      213: 6856959860535320916
+    second: AgaclarAsests_24
+  - first:
+      213: 1255241147859624517
+    second: AgaclarAsests_25
+  - first:
+      213: 7393282697034130425
+    second: AgaclarAsests_26
+  - first:
+      213: 7091143852740904751
+    second: AgaclarAsests_27
+  - first:
+      213: 3271612218119411108
+    second: AgaclarAsests_28
+  - first:
+      213: -2250338330967227683
+    second: AgaclarAsests_29
+  - first:
+      213: -5849250418686874828
+    second: AgaclarAsests_30
+  - first:
+      213: 6497093379767115217
+    second: AgaclarAsests_31
+  - first:
+      213: 1825809373490192101
+    second: AgaclarAsests_32
+  - first:
+      213: -5327283046594068864
+    second: AgaclarAsests_33
+  - first:
+      213: -1349886628548625426
+    second: AgaclarAsests_34
+  - first:
+      213: 2050693388292722592
+    second: AgaclarAsests_35
+  - first:
+      213: -7108366292891042429
+    second: AgaclarAsests_36
+  - first:
+      213: 4560414812688582931
+    second: AgaclarAsests_37
+  - first:
+      213: 4003369453185790238
+    second: AgaclarAsests_38
+  - first:
+      213: -9155222664604441226
+    second: AgaclarAsests_39
+  - first:
+      213: 3218228522413511905
+    second: AgaclarAsests_40
+  - first:
+      213: 5615680857388685506
+    second: AgaclarAsests_41
+  - first:
+      213: 8575665416045439460
+    second: AgaclarAsests_42
+  - first:
+      213: -779520622469531734
+    second: AgaclarAsests_43
+  - first:
+      213: 3249740260657735519
+    second: AgaclarAsests_44
+  - first:
+      213: -8024279127835714367
+    second: AgaclarAsests_45
+  - first:
+      213: -2345169846317419462
+    second: AgaclarAsests_46
+  - first:
+      213: -8016993505339795738
+    second: AgaclarAsests_47
+  - first:
+      213: -6931302260702964062
+    second: AgaclarAsests_48
+  - first:
+      213: 9037269453088276576
+    second: AgaclarAsests_49
+  - first:
+      213: -4188079826169200718
+    second: AgaclarAsests_50
+  - first:
+      213: 4590570018807375467
+    second: AgaclarAsests_51
+  - first:
+      213: 4933839547918583198
+    second: AgaclarAsests_52
+  - first:
+      213: -3333743248067469292
+    second: AgaclarAsests_53
+  - first:
+      213: -1186535541306703621
+    second: AgaclarAsests_54
+  - first:
+      213: -8983193010160862394
+    second: AgaclarAsests_55
+  - first:
+      213: -6566808759215287532
+    second: AgaclarAsests_56
+  - first:
+      213: 2525951944588465008
+    second: AgaclarAsests_57
+  - first:
+      213: 9204335174168545626
+    second: AgaclarAsests_58
+  - first:
+      213: 4955941033635202672
+    second: AgaclarAsests_59
+  - first:
+      213: -3279404385025659409
+    second: AgaclarAsests_60
+  - first:
+      213: -6460103578705305294
+    second: AgaclarAsests_61
+  - first:
+      213: 7464650769644670760
+    second: AgaclarAsests_62
+  - first:
+      213: -5534584743091585177
+    second: AgaclarAsests_63
+  - first:
+      213: -5655365526116381148
+    second: AgaclarAsests_64
+  - first:
+      213: 5409504925302716549
+    second: AgaclarAsests_65
+  - first:
+      213: -3384944740657496209
+    second: AgaclarAsests_66
+  - first:
+      213: 188303695851304309
+    second: AgaclarAsests_67
+  - first:
+      213: -709550237311575105
+    second: AgaclarAsests_68
+  - first:
+      213: 651341912151706359
+    second: AgaclarAsests_69
+  - first:
+      213: 8054176605343924646
+    second: AgaclarAsests_70
+  - first:
+      213: 6067476514599967537
+    second: AgaclarAsests_71
+  - first:
+      213: 6888593416774764320
+    second: AgaclarAsests_72
+  - first:
+      213: -7150472768649634556
+    second: AgaclarAsests_73
+  - first:
+      213: -1411392842649129044
+    second: AgaclarAsests_74
+  - first:
+      213: -2750982825467461366
+    second: AgaclarAsests_75
+  - first:
+      213: 534443559483843384
+    second: AgaclarAsests_76
+  - first:
+      213: 9069180864305274054
+    second: AgaclarAsests_77
+  - first:
+      213: -3647602696145346591
+    second: AgaclarAsests_78
+  - first:
+      213: 8171505601367767490
+    second: AgaclarAsests_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AgaclarAsests_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 884
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f8daaaff25ece0800000000000000
+      internalID: -1376641357437145052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 885
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88080358d56888200800000000000000
+      internalID: 182543521133133960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 885
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb7561e9071b920800000000000000
+      internalID: 3004306250714824186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 457
+        width: 338
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: -228}
+        - {x: 116, y: -212}
+        - {x: 131, y: -212}
+        - {x: 131, y: -228}
+      physicsShape:
+      - - {x: 24, y: -142}
+        - {x: 38, y: -230}
+        - {x: -98, y: -230}
+        - {x: -81, y: -169}
+        - {x: -169, y: -128}
+        - {x: -169, y: 140}
+        - {x: -47, y: 230}
+        - {x: 169, y: 230}
+        - {x: 169, y: 46}
+        - {x: 145, y: 9}
+        - {x: 141, y: -107}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d896052586a1710800000000000000
+      internalID: 1664757715012521351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 713
+        width: 179
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a11fe96468e3030800000000000000
+      internalID: 3476363600249035337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 457
+        width: 330
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -41, y: -236}
+        - {x: -39, y: -98}
+        - {x: -164, y: 19}
+        - {x: -165, y: 236}
+        - {x: 50, y: 236}
+        - {x: 102, y: 214}
+        - {x: 143, y: 154}
+        - {x: 165, y: 58}
+        - {x: 165, y: -236}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d52b9bc67a267e0800000000000000
+      internalID: -1773671217816773336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 644
+        width: 167
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.5, y: -142.5}
+        - {x: -83.5, y: 77.5}
+        - {x: -83.5, y: 142.5}
+        - {x: 83.5, y: 142.5}
+        - {x: 83.5, y: 0.5}
+        - {x: 37.5, y: -41.5}
+        - {x: 41.5, y: -142.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799fbf1b1806e0990800000000000000
+      internalID: -7417885426079499881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 801
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa2e5c576648d50800000000000000
+      internalID: 6738623598470279074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 801
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2032003c87785cc50800000000000000
+      internalID: 6684898174638760706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 801
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0518d7cc653790800000000000000
+      internalID: -7551009594637218200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 731
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe6be6350d3919a0800000000000000
+      internalID: -6261906714276434245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 731
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f040f7bc94e9c0800000000000000
+      internalID: -3898819063572269734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 731
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3231bd1987796510800000000000000
+      internalID: 1542895778143482426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 731
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689648974d5779e30800000000000000
+      internalID: 4510203107267078534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 731
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b355bc184f3ee120800000000000000
+      internalID: 2444961226660598707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 634
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87f369681761f60800000000000000
+      internalID: 8004710210557933737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 633
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebbdf9be22a71a30800000000000000
+      internalID: 4185992700236774378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 633
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1a3d95ebd7ddb0800000000000000
+      internalID: -4767099901316556133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 457
+        width: 176
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad719bb4d278fc0800000000000000
+      internalID: -3492773182751384895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_19
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 457
+        width: 151
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e39a013b03dd440800000000000000
+      internalID: 4962175910068960872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 538
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1f6b5ce3af0900800000000000000
+      internalID: 652920706533628795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 537
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc278b4fcefa5870800000000000000
+      internalID: 8672524198734146759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 537
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dfbb5f1e23e8b90800000000000000
+      internalID: -7237791605066039970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 476
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff3fea8e1c5d0d0800000000000000
+      internalID: -3398597138669371606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 477
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e156d9a0d82f50800000000000000
+      internalID: 6856959860535320916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 489
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54260a56c238b6110800000000000000
+      internalID: 1255241147859624517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 489
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e2c011773a9660800000000000000
+      internalID: 7393282697034130425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 489
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2701d973cdc86260800000000000000
+      internalID: 7091143852740904751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 489
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d5d78af9176d20800000000000000
+      internalID: 3271612218119411108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 487
+        width: 85
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -42.5, y: -10}
+        - {x: -42.5, y: 9}
+        - {x: 42.5, y: 10}
+        - {x: 42.5, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c046f53135c0e0800000000000000
+      internalID: -2250338330967227683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 418
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b2ddf1cb943dea0800000000000000
+      internalID: -5849250418686874828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 418
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9f8d71005a2a50800000000000000
+      internalID: 6497093379767115217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 425
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee167e93f3965910800000000000000
+      internalID: 1825809373490192101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 425
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebcc55b40b116b0800000000000000
+      internalID: -5327283046594068864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 425
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3f4a634d344de0800000000000000
+      internalID: -1349886628548625426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 425
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0e6885c6857c10800000000000000
+      internalID: 2050693388292722592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7ed2b4820a5d90800000000000000
+      internalID: -7108366292891042429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 425
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198bba2c19d94f30800000000000000
+      internalID: 4560414812688582931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 353
+        width: 234
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f9c19e43de8730800000000000000
+      internalID: 4003369453185790238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_39
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 353
+        width: 146
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a5a43e7d12f080800000000000000
+      internalID: -9155222664604441226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 362
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4dc7c4ac179ac20800000000000000
+      internalID: 3218228522413511905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 362
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81d949cf7eeed40800000000000000
+      internalID: 5615680857388685506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 361
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9adf39242e20770800000000000000
+      internalID: 8575665416045439460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 361
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bc9abf169e25f0800000000000000
+      internalID: -779520622469531734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 361
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572ac89c85691d20800000000000000
+      internalID: 3249740260657735519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 361
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc55cec5a804a090800000000000000
+      internalID: -8024279127835714367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 319
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34fa443378447fd0800000000000000
+      internalID: -2345169846317419462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_47
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 353
+        width: 120
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69b9bf1eaedb090800000000000000
+      internalID: -8016993505339795738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 353
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a610f741511fcf90800000000000000
+      internalID: -6931302260702964062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_49
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 353
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c0d2afa4da6d70800000000000000
+      internalID: 9037269453088276576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_50
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 353
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf74366693f0e5c0800000000000000
+      internalID: -4188079826169200718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 299
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6662973c1bf4bf30800000000000000
+      internalID: 4590570018807375467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 300
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950670ade4887440800000000000000
+      internalID: 4933839547918583198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 265
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e496cd2a2cb1d0800000000000000
+      internalID: -3333743248067469292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_54
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 265
+        width: 194
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c9033634988fe0800000000000000
+      internalID: -1186535541306703621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_55
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 265
+        width: 196
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bf6906d89455380800000000000000
+      internalID: -8983193010160862394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_56
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 265
+        width: 164
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139c07d9320ed4a0800000000000000
+      internalID: -6566808759215287532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_57
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 265
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07317e819ebfd0320800000000000000
+      internalID: 2525951944588465008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 231
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5903f1031e5cbf70800000000000000
+      internalID: 9204335174168545626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076cb95cc1a07c440800000000000000
+      internalID: 4955941033635202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 169
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedefab36173d72d0800000000000000
+      internalID: -3279404385025659409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 169
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316a03b50a1956a0800000000000000
+      internalID: -6460103578705305294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_62
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 169
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f44095354c79760800000000000000
+      internalID: 7464650769644670760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 137
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbab8ef743133b0800000000000000
+      internalID: -5534584743091585177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_64
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 137
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec7d4740b1481b0800000000000000
+      internalID: -5655365526116381148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_65
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 137
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588f46b911c621b40800000000000000
+      internalID: 5409504925302716549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_66
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 137
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f78cc41b24601d0800000000000000
+      internalID: -3384944740657496209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_67
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 137
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753c15b63dfc9200800000000000000
+      internalID: 188303695851304309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 105
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbdfba81db2726f0800000000000000
+      internalID: -709550237311575105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_69
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 105
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4025a4080a0900800000000000000
+      internalID: 651341912151706359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 105
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a149cf13fe26cf60800000000000000
+      internalID: 8054176605343924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 105
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b91cf3eb1043450800000000000000
+      internalID: 6067476514599967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_72
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 117
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02744f81733399f50800000000000000
+      internalID: 6888593416774764320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_73
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 116
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd888d6ea64cc90800000000000000
+      internalID: -7150472768649634556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 118
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafae5fffa9b96ce0800000000000000
+      internalID: -1411392842649129044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 118
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01cfc012bb82d9d0800000000000000
+      internalID: -2750982825467461366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_76
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 73
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a783f599ba6700800000000000000
+      internalID: 534443559483843384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 73
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9fac02f33cdd70800000000000000
+      internalID: 9069180864305274054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_78
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 77
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdf767cac116dc0800000000000000
+      internalID: -3647602696145346591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgaclarAsests_79
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 75
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f3a9cc05076170800000000000000
+      internalID: 8171505601367767490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
